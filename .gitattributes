@@ -1,3 +1,2 @@
 #.gitattributes
-* linguist-vendored
-*.* linguist-language=Arduino
+3d Files/Thermostat Box.gcode linguist-vendored=false
