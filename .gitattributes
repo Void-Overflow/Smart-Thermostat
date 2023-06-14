@@ -1,1 +1,2 @@
-*.G-code linguist-detectable=false
+#.gitattributes
+*.g-code linguist-detectable=false
